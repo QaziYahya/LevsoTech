@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_website=self.webpackChunkportfolio_website||[]).push([[720],{6720:(e,s,o)=>{e.exports=o.p+"static/media/doodle-42.cb97c517a679e6e18373.svg"}}]);
